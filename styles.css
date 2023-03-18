@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+div{
+    display : flex;
+	padding : 30px;
+	justify-content: space-between;
+  
+	
+}
+.o{
+  background-color : green;
+	
+}
+.t{
+  background-color : red;
+}
+.flx{
+  background-color : blue;
+}
