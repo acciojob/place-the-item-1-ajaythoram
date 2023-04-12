@@ -1,20 +1,12 @@
 
 /* Your CSS Code here. */
-div{
-    display : flex;
-	padding : 30px;
-	justify-content: space-between;
-	flex-wrap:wrap;
-  
-	
+.holder{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
-.o{
-  background-color : green;
-	
-}
-.t{
-  background-color : red;
-}
-.flx{
-  background-color : blue;
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
 }
